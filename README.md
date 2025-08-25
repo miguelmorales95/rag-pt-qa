@@ -1,6 +1,6 @@
 # RAG-PT-QA — Minimal PyTorch RAG (Embeddings + Local Generator)
 
-A minimal Retrieval-Augmented Generation (RAG) demo that:
+A Retrieval-Augmented Generation (RAG) demo that:
 - uses **PyTorch** + `sentence-transformers` for **embeddings**,
 - stores vectors locally with **FAISS**,
 - answers questions with a small **local LLM** (`google/flan-t5-small`, via `transformers`).
