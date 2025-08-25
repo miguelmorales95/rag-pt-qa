@@ -74,7 +74,3 @@ rag-pt-qa/
 - Add a **Streamlit** or **Gradio** UI.
 - Log runs & metrics, write tests, add pre-commit hooks.
 - Package as a module & add CLI entrypoints.
-
----
-
-**Author**: You 👋 — built to showcase end-to-end LLM/RAG ability.
