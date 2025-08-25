@@ -1,0 +1,3 @@
+This is a tiny sample document. Replace it with your own PDFs, DOCX, or TXT files.
+The ingestion step will chunk your documents and build a FAISS index using sentence-transformers embeddings.
+You can then query with a question, and a small local model (Flan-T5-small) will generate an answer from retrieved context.

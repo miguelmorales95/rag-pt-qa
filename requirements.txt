@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+pandas
+torch
+sentence-transformers
+transformers
+pypdf
+python-docx
+tqdm
